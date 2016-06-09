@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <Button
+        android:text="@string/btReceitasTotais"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btReceitasTotais" />
+    <Button
+        android:text="@string/btReceitasPorCategoria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btReceitasPorCategoria" />
+    <Button
+        android:text="@string/btReceitasPorSubCategoria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btReceitasPorSubCategoria" />
+    <Button
+        android:text="@string/btReceitasPorConta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btReceitasPorConta" />
+    <Button
+        android:text="@string/btDespesasTotais"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btDespesasTotais" />
+  <Button
+        android:text="@string/btDespesasPorCategoria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btDespesasPorCategoria" />
+  <Button
+        android:text="@string/btDespesasPorSubCategoria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btDespesasPorSubCategoria" />
+  <Button
+        android:text="@string/btDespesasPorConta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btDespesasPorConta" />
+  <Button
+        android:text="@string/btSaldo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btSaldo" />
+  <Button
+        android:text="@string/btVoltar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btVoltar" />
+
+
+
+</LinearLayout>

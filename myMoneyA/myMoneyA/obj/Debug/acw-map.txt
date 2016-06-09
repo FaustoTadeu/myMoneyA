@@ -1,0 +1,32 @@
+myMoneyA.CatMain, myMoneyA;md5e79b162b3942a7082c02ef822cc35261.CatMain
+myMoneyA.CatMain, myMoneyA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e79b162b3942a7082c02ef822cc35261.CatMain
+myMoneyA.CatMain;md5e79b162b3942a7082c02ef822cc35261.CatMain
+mymoneya.CatMain;md5e79b162b3942a7082c02ef822cc35261.CatMain
+myMoneyA.GerenciaCat, myMoneyA;md5e79b162b3942a7082c02ef822cc35261.GerenciaCat
+myMoneyA.GerenciaCat, myMoneyA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e79b162b3942a7082c02ef822cc35261.GerenciaCat
+myMoneyA.GerenciaCat;md5e79b162b3942a7082c02ef822cc35261.GerenciaCat
+mymoneya.GerenciaCat;md5e79b162b3942a7082c02ef822cc35261.GerenciaCat
+myMoneyA.GerenciaContas, myMoneyA;md5e79b162b3942a7082c02ef822cc35261.GerenciaContas
+myMoneyA.GerenciaContas, myMoneyA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e79b162b3942a7082c02ef822cc35261.GerenciaContas
+myMoneyA.GerenciaContas;md5e79b162b3942a7082c02ef822cc35261.GerenciaContas
+mymoneya.GerenciaContas;md5e79b162b3942a7082c02ef822cc35261.GerenciaContas
+myMoneyA.ContaMain, myMoneyA;md5e79b162b3942a7082c02ef822cc35261.ContaMain
+myMoneyA.ContaMain, myMoneyA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e79b162b3942a7082c02ef822cc35261.ContaMain
+myMoneyA.ContaMain;md5e79b162b3942a7082c02ef822cc35261.ContaMain
+mymoneya.ContaMain;md5e79b162b3942a7082c02ef822cc35261.ContaMain
+myMoneyA.GerenciaMov, myMoneyA;md5e79b162b3942a7082c02ef822cc35261.GerenciaMov
+myMoneyA.GerenciaMov, myMoneyA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e79b162b3942a7082c02ef822cc35261.GerenciaMov
+myMoneyA.GerenciaMov;md5e79b162b3942a7082c02ef822cc35261.GerenciaMov
+mymoneya.GerenciaMov;md5e79b162b3942a7082c02ef822cc35261.GerenciaMov
+myMoneyA.MainActivity, myMoneyA;md5e79b162b3942a7082c02ef822cc35261.MainActivity
+myMoneyA.MainActivity, myMoneyA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e79b162b3942a7082c02ef822cc35261.MainActivity
+myMoneyA.MainActivity;md5e79b162b3942a7082c02ef822cc35261.MainActivity
+mymoneya.MainActivity;md5e79b162b3942a7082c02ef822cc35261.MainActivity
+myMoneyA.MovMain, myMoneyA;md5e79b162b3942a7082c02ef822cc35261.MovMain
+myMoneyA.MovMain, myMoneyA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e79b162b3942a7082c02ef822cc35261.MovMain
+myMoneyA.MovMain;md5e79b162b3942a7082c02ef822cc35261.MovMain
+mymoneya.MovMain;md5e79b162b3942a7082c02ef822cc35261.MovMain
+myMoneyA.RelatoriosMenu, myMoneyA;md5e79b162b3942a7082c02ef822cc35261.RelatoriosMenu
+myMoneyA.RelatoriosMenu, myMoneyA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e79b162b3942a7082c02ef822cc35261.RelatoriosMenu
+myMoneyA.RelatoriosMenu;md5e79b162b3942a7082c02ef822cc35261.RelatoriosMenu
+mymoneya.RelatoriosMenu;md5e79b162b3942a7082c02ef822cc35261.RelatoriosMenu
