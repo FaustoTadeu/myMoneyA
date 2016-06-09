@@ -9,6 +9,8 @@ namespace myMoneyA {
     [Activity(Label = "Gerenciador de Categorias")]
     public class CatMain : Activity {
         List<Categoria> Cat;
+        BDCategoria BDCat;
+        ListView list;
         protected override void OnCreate (Bundle savedInstanceState) {
             base.OnCreate(savedInstanceState);
 
@@ -21,7 +23,7 @@ namespace myMoneyA {
 
             BDCat.Dispose();
 
-            ListView list = FindViewById<ListView>(Resource.Id.listaCat);
+            list = FindViewById<ListView>(Resource.Id.listaCat);
             GerenciaCat gl = new GerenciaCat(Cat, this);
 
             list.Adapter = gl;
@@ -29,13 +31,14 @@ namespace myMoneyA {
             Button btCadastrar = FindViewById<Button>(Resource.Id.btGerContas);
 
         }
-        public void Apagar_Categoria (int id) {
-            if (Contas.Count > 0) {
-                BDConta = new BDConta();
-                BDConta.DeletarConta(Contas[id]);
-                BDConta.Dispose();
-                Contas.RemoveAt(id);
-            }
 
+        public void Apagar_Categoria (int id) {
+            if (Cat.Count > 0) {
+                BDCat = new BDCategoria();
+                BDCat.DeletarCategoria(Cat[id]);
+                BDCat.Dispose();
+                Cat.RemoveAt(id);
+            }
+        }
         }
     }

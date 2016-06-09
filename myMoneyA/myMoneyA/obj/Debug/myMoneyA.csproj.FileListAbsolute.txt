@@ -85,3 +85,28 @@ C:\Users\Xamarin\Documents\Visual Studio 2015\Projects\myMoneyA\myMoneyA\obj\Deb
 C:\Users\Xamarin\Documents\Visual Studio 2015\Projects\myMoneyA\myMoneyA\obj\Debug\myMoneyA.csprojResolveAssemblyReference.cache
 C:\Users\Xamarin\Documents\Visual Studio 2015\Projects\myMoneyA\myMoneyA\obj\Debug\myMoneyA.dll.mdb
 C:\Users\Xamarin\Documents\Visual Studio 2015\Projects\myMoneyA\myMoneyA\bin\Debug\myMoneyA.dll.mdb
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\myMoneyA.csprojResolveAssemblyReference.cache
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\myMoneyA.dll
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\myMoneyA.pdb
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\bin\Debug\myMoneyA.dll
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\bin\Debug\myMoneyA.pdb
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\bin\Debug\myMoneyA.myMoneyA.apk
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\bin\Debug\myMoneyA.myMoneyA-Signed.apk
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\bin\Debug\SQLite-net.dll
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\android\bin\myMoneyA.myMoneyA.apk
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\res\layout\contamain.xml
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\res\layout\itemconta.xml
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\res\layout\relatoriosmenu.xml
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\res\layout\catmain.xml
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\res\layout\itemcat.xml
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\res\layout\movmain.xml
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\res\layout\itemmov.xml
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\res\layout\main.xml
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\res\values\strings.xml
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\res\drawable\icon.png
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\R.cs.flag
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\uploadflags.txt
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\obj\Debug\myMoneyA.dll.mdb
+C:\Users\Xamarin\Source\Repos\myMoneyA\myMoneyA\myMoneyA\bin\Debug\myMoneyA.dll.mdb

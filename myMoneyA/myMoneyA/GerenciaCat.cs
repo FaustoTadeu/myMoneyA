@@ -9,9 +9,9 @@ namespace myMoneyA {
 
     public class GerenciaCat : BaseAdapter<Categoria> {
         List<Categoria> Cat;
-        Activity C;
+        CatMain C;
 
-        public GerenciaCat (List<Categoria> dd, Activity act) {
+        public GerenciaCat (List<Categoria> dd, CatMain act) {
             Cat = dd;
             C = act;
         }
@@ -40,10 +40,13 @@ namespace myMoneyA {
 
             view.FindViewById<TextView>(Resource.Id.txtCat).Text = Cat[position].Nome + " - "+Cat[position].CatPai.ToString();
 
-            view.FindViewById<Button>(Resource.Id.btAtualizarConta);
-            view.FindViewById<Button>(Resource.Id.btApagarConta);
+            view.FindViewById<Button>(Resource.Id.btAtualizarCat);
+           Button btnApagar =  view.FindViewById<Button>(Resource.Id.btApagarCat);
 
-
+            btnApagar.Click += delegate {
+                C.Apagar_Categoria (position);
+                this.NotifyDataSetChanged();
+            };
 
             return view;
         }

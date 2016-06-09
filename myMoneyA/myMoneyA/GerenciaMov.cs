@@ -9,9 +9,9 @@ namespace myMoneyA {
 
     public class GerenciaMov : BaseAdapter<Movimento> {
         List<Movimento> Mov;
-        Activity C;
+        MovMain C;
 
-        public GerenciaMov (List<Movimento> dd, Activity act) {
+        public GerenciaMov (List<Movimento> dd, MovMain act) {
             Mov = dd;
             C = act;
         }
@@ -35,15 +35,18 @@ namespace myMoneyA {
         public override View GetView (int position, View convertView, ViewGroup parent) {
             View view = convertView;
             if (view == null) {
-                view = C.LayoutInflater.Inflate(Resource.Layout.ItemCat, null);
+                view = C.LayoutInflater.Inflate(Resource.Layout.ItemMov, null);
             }
 
-            view.FindViewById<TextView>(Resource.Id.txtCat).Text = Mov[position].Descricao + " - " + Mov[position].Tipo + " - " + Mov[position].Data.ToString() + " - " + Mov[position].Valor.ToString();
+            view.FindViewById<TextView>(Resource.Id.txtMov).Text = Mov[position].Descricao + " - " + Mov[position].Tipo + " - " + Mov[position].Data.ToString() + " - " + Mov[position].Valor.ToString();
 
-            view.FindViewById<Button>(Resource.Id.btAtualizarConta);
-            view.FindViewById<Button>(Resource.Id.btApagarConta);
+            view.FindViewById<Button>(Resource.Id.btAtualizarMov);
+            Button btnApagar = view.FindViewById<Button>(Resource.Id.btApagarMov);
 
-
+            btnApagar.Click += delegate {
+                C.Apagar_Movimento(position);
+                this.NotifyDataSetChanged();
+            };
 
             return view;
         }
